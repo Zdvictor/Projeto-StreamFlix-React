@@ -15,4 +15,5 @@ Integração com APIs de Filmes: Faz uso de APIs para manter os catálogos sempr
 💻 Tecnologias Utilizadas<br />
 React: Biblioteca JavaScript para construção de interfaces de usuário.<br />
 APIs de Filmes: Para fornecer dados precisos sobre os lançamentos mais recentes.<br />
+Axios: Utilizado para consumir as APIs de filmes de forma eficiente.<br />
 
