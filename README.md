@@ -4,7 +4,7 @@ By Zdvictor with only HTML, CSS, JS, React + API AXIOS
 
 
 🚀 StreamFlix<br />
-StreamFlix é uma aplicação de streaming de filmes desenvolvida com React. Este projeto oferece aos usuários uma visão completa dos filmes mais recentes em lançamento, proporcionando uma experiência intuitiva e responsiva.<br />
+StreamFlix é uma aplicação de Catálogos de filmes desenvolvida com React. Este projeto oferece aos usuários uma visão completa dos filmes mais recentes em lançamento, proporcionando uma experiência intuitiva e responsiva.<br />
 
 🎯 Funcionalidades<br />
 Catálogo de Lançamentos: Exibe uma lista dos filmes que estão atualmente em lançamento.<br />
